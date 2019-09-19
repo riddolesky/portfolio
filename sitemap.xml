@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://riddolesky.github.io/portfolio/</loc>
+
+      <lastmod>2019-09-19</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://riddolesky.github.io/portfolio/digital-library.html</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   
+   <url>
+
+      <loc>https://riddolesky.github.io/portfolio/laundry.html</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://riddolesky.github.io/portfolio/poultry.html</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://riddolesky.github.io/portfolio/smart-school.html</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://riddolesky.github.io/portfolio/vehicle-registration.html</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+
+   <url>
+
+      <loc>https://riddolesky.github.io/portfolio/votepad.html</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://riddolesky.github.io/portfolio/yoruba-proverb-dictionary.html</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+ 
+
+</urlset>
